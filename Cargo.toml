@@ -1,0 +1,3 @@
+[workspace]
+members = ["openavl", "examples/test_everything"]
+resolver = "2"
